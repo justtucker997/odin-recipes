@@ -1,0 +1,13 @@
+*{
+    text-align: center;
+}
+
+h1 {
+    font-size: 6vw;
+}
+
+a {
+    display: block;
+    font-size: 4vw;
+    margin: 2vw;
+}
